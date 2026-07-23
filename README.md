@@ -1,2 +1,17 @@
-# LifeLink-AI
-AI-based Accident Detection &amp; Emergency Response System built with Java OOP.
+# LifeLink AI
+
+An AI-based Accident Detection & Emergency Response System developed in Java.
+
+## Features
+- Accident Detection
+- Emergency Alert System
+- Hospital Notification
+- Police Notification
+- Family Notification
+- OOP Concepts (Encapsulation, Inheritance, Polymorphism, Abstraction)
+
+## Technologies
+- Java
+- OOP
+- MySQL
+- Java Swing
