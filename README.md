@@ -1,2 +1,3 @@
-# LifeLink-AI
-AI-Powered Predictive Accident Detection &amp; Emergency Response System built with Java OOP
+# LifeLink AI
+
+AI-Powered Predictive Accident Detection & Emergency Response System built with Java OOP.
